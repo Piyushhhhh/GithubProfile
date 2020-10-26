@@ -14,6 +14,18 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 - 😄 Pronouns: He/His
 
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++                   1 hr 33 mins    ████████████▒░░░░░░░░░░░░   48.73 % 
+Vue.js                1 hr 19 mins    ██████████▒░░░░░░░░░░░░░░   41.01 % 
+Markdown              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Text                  7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Sublime Text Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
+<!--END_SECTION:waka-->
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
