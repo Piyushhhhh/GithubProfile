@@ -20,7 +20,6 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
 
 [twitter]: https://twitter.com/Piyush12295
