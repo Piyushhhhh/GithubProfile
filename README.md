@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on [Highlevel](https://www.gohighlevel.com/).
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Flutter or any tech related stuff.
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Keyboard / drums
 - 😄 Pronouns: He/His
