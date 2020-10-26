@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Hi, I'm [Piyush Kumar], a Flutter Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/) and a Mentor 👨🏽‍💼 . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flutter Engineer at 🙍🏽‍♂️ [@HighLevel](https://www.gohighlevel.com/) and a Mentor 👨🏽‍💼 . Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 ## I'm a Developer and Teacher!!
-- 🔭 I’m currently working on [Highlevel](https://www.gohighlevel.com/).
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Flutter or any tech related stuff.
 - 🥅 2020 Goals: Contribute more to Open Source projects
