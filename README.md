@@ -1,12 +1,15 @@
-### Hi there, I'm Piyush 👋
+### Hi there, I'm Piyush Kumar 👋
 
 
 ## I'm a Developer and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about Flutter or any tech related stuff.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Keyboard / drums
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
 
 ### Connect with me:
