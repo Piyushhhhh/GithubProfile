@@ -1,5 +1,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/>
 
+<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hi there</h1>  
+
 Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flutter Engineer at 🙍🏽‍♂️ [@HighLevel](https://www.gohighlevel.com/) and a Mentor 👨🏽‍💼 . Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
