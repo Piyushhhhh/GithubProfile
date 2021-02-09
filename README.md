@@ -13,18 +13,6 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 - ⚡ Fun fact: I love to draw and play Keyboard / drums
 - 😄 Pronouns: He/His
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Dart                  7 hr 30 mins    ████████████▒░░░░░░░░░░░░   48.73 % 
-JavaScript            5 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.01 % 
-Kotlin                28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-swift                 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-java                  16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-<!--END_SECTION:waka-->
-
 <a href="https://github.com/Piyushhhhh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhhhh&theme=light&hide_langs_below=1" />
 </a>
