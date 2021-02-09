@@ -26,6 +26,10 @@ java                  16 mins         ▓░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/Piyushhhhh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhhhh&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Piyushhhhh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piyushhhhh&show_icons=true&theme=light&line_height=27" alt="Piyush's github stats"/>
 </a>
 
