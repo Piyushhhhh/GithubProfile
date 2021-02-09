@@ -25,6 +25,9 @@ java                  16 mins         ▓░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<a href="https://github.com/viveky259259">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=viveky259259&show_icons=true&theme=light&line_height=27" alt="Vivek's github stats"/>
+</a>
 
 ### Connect with me:
 
