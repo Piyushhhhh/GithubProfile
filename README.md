@@ -9,7 +9,7 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Flutter or any tech related stuff.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Keyboard / drums
 - 😄 Pronouns: He/His
 
