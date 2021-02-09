@@ -27,11 +27,6 @@ java                  16 mins         ▓░░░░░░░░░░░░░
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piyushhhhh&show_icons=true&theme=light&line_height=27" alt="Piyush's github stats"/>
 </a>
 
-<a href="https://github.com/Piyushhhhh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhhhh&theme=light&hide_langs_below=1" />
-</a>
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
