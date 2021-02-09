@@ -19,7 +19,6 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 <a href="https://github.com/Piyushhhhh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piyushhhhh&show_icons=true&theme=light&line_height=27" alt="Piyush's github stats"/>
 </a>
-```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/Piyushhhhh">
