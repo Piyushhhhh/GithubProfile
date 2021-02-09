@@ -13,9 +13,6 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 - ⚡ Fun fact: I love to draw and play Keyboard / drums
 - 😄 Pronouns: He/His
 
-<a href="https://github.com/Piyushhhhh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhhhh&theme=light&hide_langs_below=1" />
-</a>
 
 <br>
 <a href="https://github.com/Piyushhhhh">
@@ -23,6 +20,9 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 </a>
 </br>
 
+<a href="https://github.com/Piyushhhhh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushhhhh&theme=light&hide_langs_below=1" />
+</a>
 
 
 ### Connect with me:
