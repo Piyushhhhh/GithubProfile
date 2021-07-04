@@ -16,11 +16,7 @@ Hi, I'm Piyush Kumar, a Flutter Developer 🚀 from India, currently, I'm a Flut
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Dart                  7 hr 30 mins    ████████████▒░░░░░░░░░░░░   48.73 % 
-JavaScript            5 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.01 % 
-Kotlin                28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-swift                 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-java                  16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/Piyushhhhh">
